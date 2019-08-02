@@ -1,4 +1,4 @@
-const fb = require('../index.js')
+const fb = require('../src/index')
 // import { test, isFizzy, isBuzzy, fizzyBuzzy, fizzBuzz, FIZZ, BUZZ, FIZZBUZZ } from '../index'
 
 test('Testing', () => {
